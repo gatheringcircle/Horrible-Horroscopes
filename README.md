@@ -22,4 +22,4 @@ This repository contains the Horrible Horoscopes application written in Swift fo
 ## Authors
 
 * **Sawyer Clever** - *Programmer* - [Sawyer Clever](https://github.com/sawyerclever)
-* **Tyler Crago** - *Content Creator and Application Idea Founder*
+* **Tyler Crago** - *Programmer* - [Tyler Crago](https://github.com/gatheringcircle)
